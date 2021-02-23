@@ -1,0 +1,18 @@
+Samples: 100
+Write: 46
+Read: 52
+Number of workers: 1
+Overflow of the array time_arrival at time 160.218857Total Size: 28004784
+
+Samples: 1000
+Write: 500
+Read: 480
+Number of workers: 1
+Overflow of the array time_arrival at time 167.100403Total Size: 269098803
+
+Samples: 10000
+Write: 4905
+Read: 4895
+Number of workers: 1
+Overflow of the array time_arrival at time 169.510056Total Size: 2696258126
+

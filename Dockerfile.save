@@ -1,0 +1,6 @@
+FROM ubuntu:20.04
+RUN apt-get update && apt-get install -y build-essential
+COPY . /home/app/
+WORKDIR /home/app/
+RUN make
+ ["./generator 100 500 1 80 549093 1 0 0 1 > gen_traza.txt"]

@@ -1,0 +1,22 @@
+Samples: 100
+Write: 46
+Read: 52
+Number of workers: 1
+Average delay in queue: 229.680618
+Average number in queue: 45.382744
+Server Utilization: 0.997670
+Time simulation ended: 826.021973
+Total Size: 30160190
+
+Samples: 1000
+Write: 495
+Read: 485
+Number of workers: 1
+Overflow of the array time_arrival at time 977.222717Total Size: 266573600
+
+Samples: 10000
+Write: 4907
+Read: 4893
+Number of workers: 1
+Overflow of the array time_arrival at time 1006.734436Total Size: 2705771925
+

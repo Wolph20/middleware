@@ -1,0 +1,30 @@
+Samples: 100
+Write: 50
+Read: 48
+Number of workers: 1
+Average delay in queue: 8.319685
+Average number in queue: 5.845604
+Server Utilization: 0.979402
+Time simulation ended: 140.238113
+Total Size: 28153977
+
+Samples: 1000
+Write: 477
+Read: 503
+Number of workers: 1
+Average delay in queue: 6.227246
+Average number in queue: 3.487391
+Server Utilization: 0.835593
+Time simulation ended: 1754.426758
+Total Size: 277500938
+
+Samples: 10000
+Write: 4842
+Read: 4958
+Number of workers: 1
+Average delay in queue: 5.590348
+Average number in queue: 2.993063
+Server Utilization: 0.803170
+Time simulation ended: 18305.884766
+Total Size: 2699683261
+
